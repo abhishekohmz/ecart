@@ -1,0 +1,12 @@
+#card{
+    background-color: azure;
+}
+#row{
+    background-color: rgba(108, 107, 107, 0.632);
+    padding-top: 200px;
+    padding-left: 50px;
+}
+#btn{
+    background-color: rgba(0, 255, 255, 0.104);
+    color: black;
+}
